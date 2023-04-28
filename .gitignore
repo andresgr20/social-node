@@ -1,0 +1,11 @@
+# Ignore temporary files
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore the node_modules directory
+server/node_modules/
+
+server/.env
+
